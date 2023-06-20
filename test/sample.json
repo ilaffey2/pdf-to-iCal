@@ -1,0 +1,72 @@
+[
+    {
+      "BEGIN": "VEVENT",
+      "DTSTART": "20230103T000000",
+      "SUMMARY": "Course Introduction, Review Syllabus, Getting to Know One Another",
+      "DESCRIPTION": "Session 1: Course Introduction, Review Syllabus, Getting to Know One Another",
+      "END": "VEVENT"
+    },
+    {
+      "BEGIN": "VEVENT",
+      "DTSTART": "20230105T000000",
+      "SUMMARY": "Organizations and Organization Design",
+      "DESCRIPTION": "Session 2: Organizations and Organization Design. Read Daft Chapter 1 prior to class.",
+      "END": "VEVENT"
+    },
+    {
+      "BEGIN": "VEVENT",
+      "DTSTART": "20230110T000000",
+      "SUMMARY": "Organizational Purpose and Structure",
+      "DESCRIPTION": "Session 3: Organizational Purpose and Structure. Read Daft Chapter 2 prior to class. Focus on Miller Machine Parts case. Submit case 1 answers prior to class.",
+      "END": "VEVENT"
+    },
+    {
+      "BEGIN": "VEVENT",
+      "DTSTART": "20230112T000000",
+      "SUMMARY": "Organizational Structure Fundamentals",
+      "DESCRIPTION": "Session 4: Organizational Structure Fundamentals. Read Daft Chapter 3 prior to class. Focus on Holtzclaw case. Submit case 2 answers prior to class.",
+      "END": "VEVENT"
+    },
+    {
+      "BEGIN": "VEVENT",
+      "DTSTART": "20230119T000000",
+      "SUMMARY": "External Environment",
+      "DESCRIPTION": "Session 5: External Environment. Read Daft Chapter 4 prior to class. Focus on the Gap case. Submit case 3 answers prior to class.",
+      "END": "VEVENT"
+    },
+    {
+      "BEGIN": "VEVENT",
+      "DTSTART": "20230124T000000",
+      "SUMMARY": "Team Case Analysis 1",
+      "DESCRIPTION": "Session 6: Team Case Analysis 1. Analyze Cisco Systems Case. Develop a team .PPT presentation answering the Cisco case. Submit presentation prior to class on 1/26.",
+      "END": "VEVENT"
+    },
+    {
+      "BEGIN": "VEVENT",
+      "DTSTART": "20230126T000000",
+      "SUMMARY": "Team Presentations on Cisco case, Interorganizational Relationships",
+      "DESCRIPTION": "Session 7: Team Presentations on Cisco case, Interorganizational Relationships. Read Daft Chapter 5 prior to class. Pay attention to Accelerating Medicines Partnership In Practice and LVMH In Practice.",
+      "END": "VEVENT"
+    },
+    {
+      "BEGIN": "VEVENT",
+      "DTSTART": "20230131T000000",
+      "SUMMARY": "Team Case Analysis 2",
+      "DESCRIPTION": "Session 8: Team Case Analysis 2. Analyze Walmart case. Develop a team paper answering the Walmart case questions. Submit prior to class on 2/2.",
+      "END": "VEVENT"
+    },
+    {
+      "BEGIN": "VEVENT",
+      "DTSTART": "20230202T000000",
+      "SUMMARY": "International Environment",
+      "DESCRIPTION": "Session 9: International Environment. Read Daft Chapter 6 prior to class. Pay attention to the Halogen Analytics case. Submit case 4 answers prior to class.",
+      "END": "VEVENT"
+    },
+    {
+      "BEGIN": "VEVENT",
+      "DTSTART": "20230207T000000",
+      "SUMMARY": "Corporate Social Responsibility",
+      "DESCRIPTION": "Session 10: Corporate Social Responsibility. Read Daft Chapter 7 prior to class. Pay attention to Solo case. Submit case 5 answers prior to class.",
+      "END": "VEVENT"
+    }
+  ]

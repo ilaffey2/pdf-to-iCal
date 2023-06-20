@@ -1,0 +1,5 @@
+streamlit
+langchain[llms]
+ics
+python-dotenv
+openai
